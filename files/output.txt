@@ -1,0 +1,14 @@
+
+ad=kerim berat
+soyad=karakoç
+sehir=kocaeli
+memleket=kocaeli
+splaka=41
+mplaka=41
+yil=2022
+dogumyil=2005
+dogumay=nisan
+dogumgun=25
+takim=yok
+ktakim=yok
+tyil=yok
